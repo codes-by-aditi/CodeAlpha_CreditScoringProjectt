@@ -64,6 +64,13 @@ The model works with both **numerical and categorical features**, including:
 - Jupyter Notebook  
 
 ---
-
+CreditScoringProject_Aditi/
+│── dataset/
+│── reports/
+│── common/
+│── IMPLEMENTACIONLOGREG.py
+│── IMPLEMENTACIONSVM.py
+│── KNN.ipynb
+│── README.md
 ## 📁 Project Structure
 
